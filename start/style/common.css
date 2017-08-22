@@ -1,0 +1,28 @@
+@charset "utf-8";
+*{margin: 0;padding: 0;}
+body{width: 100%;background: white;margin: 0 auto;font-size: 10px;}
+img{display: block;border: 0px;}
+.top1{height: 34px;background: black;position: relative;}
+.logo{width: 50px;height: 30px;float: left;}
+.tright{width: 70px;height: 34px;display: inline-block;float: right;}
+.tright a{text-decoration: none;color: white;font-size:10px;display: inline-block;line-height: 34px;}
+.tright img{display: inline-block;}
+#no{width: 100%;height: 70px;background: white;}
+.top2{width: 550px;height: 70px;float: right;}
+.top2 dl{float: left;margin-top: 0px;width:80px;height: 70px;}
+.top2 dl dt{width: 80px;height: 35px;text-align: center;float: left;}
+.top2 dl dt img{display: block;width: 20px;height:20px ;margin-left: 30px;margin-top:7px ;}
+.top2 dl dd{width: 80px;height: 35px;float: left;line-height: 35px;text-align: center;}
+.top2 dl a{display: block;width:80px;height:35px;text-decoration: none;color: #000000;}
+
+
+.bottom{list-style:none;width: 1080px;height:210px;border: 1px solid lightgray;margin: 20px auto 0px;background: white;}
+.bottom li{width: 180px;height: 160px; margin:25px 0px;border-left: 1px solid lightgray;float: left;text-align: center;line-height: 30px;}
+#none{width: 350px;height: 140px;text-align: center;line-height: 30px;padding-top: 20px;}
+.bottom .special{font-size: 16px;font-weight: normal;}
+.bottom a{text-decoration: none;color: black;}
+.bottom span{color: red;}
+ #t{list-style:none;width: 1070px;height:80px;border: 1px solid lightgray;margin: 0px auto 20px;line-height: 30px;background: white;padding-left: 10px;}
+ #t span{color: darkgray;}
+ #t a{text-decoration: none;color: #000000;text-align: center;margin-top:30px;}
+.foot{width: 100%; height: 70px;background-image: url(../img/foot.png);}
